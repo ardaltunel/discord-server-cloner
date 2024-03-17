@@ -18,7 +18,7 @@
   <li><strong>Clone Server:</strong> Initiate the cloning process and watch as the server is copied to your own server.</li>
 </ol>
 
-<h2>Screenshots</h2>
+<h2>Screenshot</h2>
 
 <img src="https://github.com/ardaltunel/discord-server-cloner/assets/35379428/fbaadba3-942f-44a2-a1bb-0c5a81fd68a7" alt="Discord Server Cloner">
 
